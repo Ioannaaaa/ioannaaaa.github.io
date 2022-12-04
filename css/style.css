@@ -1,8 +1,23 @@
-h2{text-align: center;
-color: green; font-weight: bold;
-font-style: font-style: oblique;}
-p{color: seagreen;
-font-weight: bold;
-font font-style: oblique;}
-h5{font-size: 150%}
-body{background-color: turquoise;}
+h2{
+	text-align: center;
+	color:white; 
+	font-weight: bold;
+	font-style: font-style: oblique;
+}
+
+p{
+	color: white;
+	font-weight: bold;
+	font font-style: oblique;
+	text-align: center;
+}
+
+body{
+  background-image: url('https://i.redd.it/praii0yi0ca81.gif');
+}
+h5{ font-weight:bolder;
+color:white; }
+
+h6{color: black; font-style: oblique; font-weight: bolder; background-color:lightskyblue; text-align: center;}
+h3{font-weight: bolder;
+color: white;}
